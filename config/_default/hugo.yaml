@@ -3,7 +3,11 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+<<<<<<< HEAD
 title: "winterwndend" # Website name
+=======
+title: "Creator's Blog (Hugo Theme)" # Website name
+>>>>>>> 3dce268a2238e5961411be8ef2415287759fef36
 baseURL: 'https://example.com/' # Website URL
 
 ############################
